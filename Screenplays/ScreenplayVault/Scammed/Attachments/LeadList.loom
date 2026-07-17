@@ -1,0 +1,701 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "79px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "ID",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Lead Name",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Number",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "City",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "State",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "171px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Status",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "91fb0feb-722b-407d-9f34-d5624629f83d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "204px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Notes",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "84868ec2-655a-4ec7-8321-a63fb9dd36cd",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:23:52.199Z",
+        "cells": [
+          {
+            "id": "1b1b9261-f7b2-404b-82e9-118e70392b8f",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V001",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b44c1b5f-e04d-45dd-b06b-dc0b4aada943",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Rajesh Sharma",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3f4a7ae6-6efe-44b9-afae-98f9026530fc",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501001",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3fb6504f-dbb0-41c3-99a8-6cdac5d97cea",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Pune",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6867bc3e-dc4f-4412-9399-4d2bab8b8ecb",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Maharashtra",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9e2ad72-a9eb-4d11-a770-0edd06a95600",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Collection in Progress",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6163ff4a-65a1-4099-9632-bf848bccd028",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "DECEASED",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "31f41f11-28f7-4fb3-a777-ceaec7a5fef5",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:25.464Z",
+        "cells": [
+          {
+            "id": "3ea9d114-6eb4-494e-9236-af28df791e43",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V002",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "03d8a230-781a-40c1-a748-6ffab1512106",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Anita Verma",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c7698d10-e327-4103-9d31-689b30b79234",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501002",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebf7ec33-1130-4e4c-b627-ca2ef035c218",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Delhi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0bdd27d-f26c-4308-9d1f-de8b501ddd07",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Delhi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f76d3144-ee07-459f-ad79-d0e7ec190dd2",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Pending",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b74cf6a9-cf73-448e-af41-e4cc70b16be6",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7881705d-0635-4a12-bd18-5c5761b0a1f2",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:30.916Z",
+        "cells": [
+          {
+            "id": "7fab88dc-011e-4516-8cb3-964fa34aab45",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V003",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a164a513-640d-4ae1-b2b9-93e8c9cfe108",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Suresh Patel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4fe510ad-9c6d-4fff-b349-e010e12226d8",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501003",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e8278884-1be8-48d8-86f7-2b94cdb2bede",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Ahmedabad",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ce52c33-114d-459e-8cef-5b9b6e36c193",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Gujarat",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fb8af63b-f590-4296-9107-15d5e22a27df",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Escalated",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "82feee8c-126b-4f46-966c-b142ba8696f4",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "25df6ccf-1108-4160-8153-7a1650512e20",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:35.940Z",
+        "cells": [
+          {
+            "id": "c5a10f3a-c6ef-4272-9393-7f55d6d5d6c4",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V004",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "60ee47c7-aee2-46c0-92c4-b9b0eeb19a76",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Priya Nair",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "64568426-a4cd-427d-a5a3-d5084eeaf9fb",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501004",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bace5d18-94e0-451f-867a-d962ea7faa37",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Kochi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "70cfd237-9f48-4221-879c-1feefe234dd6",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Kerala",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "26b84a4d-7e65-4f5b-944c-e2ce8cebb57c",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Pending",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "321eaa9c-d1ea-40e8-b0d0-dad412740fd7",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fb381b4e-9cb7-4842-86ce-9e3db0d2cb64",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:37.393Z",
+        "cells": [
+          {
+            "id": "e0b79c4b-646d-428b-8daa-002fd12f8110",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V005",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa2b6f33-7e16-4473-88d7-7ba6b56b766f",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Mohan Das",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "06926745-e989-4245-ba2a-af30bbebf22a",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501005",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59119d56-5cf2-405e-8045-8fbe2019b98e",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Kolkata",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d37d5885-532e-4631-99d8-9bae301faf40",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "West Bengal",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e7d169db-bb92-4843-9d09-f2f3903d8fdd",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Converted",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ac9d755f-0c7a-466e-9452-97ce05b3bb53",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a5da417f-7af9-45fe-af88-c75c39167824",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:38.658Z",
+        "cells": [
+          {
+            "id": "0b017b4d-be2c-4b4d-b1f2-5b83a0a4c57e",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V006",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5b90e992-e7f3-4c80-9c87-fbe7779cdb57",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Neha Singh",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "42cea183-b360-4d2f-8090-693343216f73",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501006",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "50c53111-bfbe-468c-a33e-8567cba20db1",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Lucknow",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3261770a-485d-4e4a-a967-87bd5af7ee77",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Uttar Pradesh",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4737b81e-ef73-4660-a3a4-830846f0f2bc",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Pending",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ad327a8-2c04-4cc4-9418-9f1012390c11",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8eeb254f-0ccc-4336-91ff-d691cbaacc28",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:39.878Z",
+        "cells": [
+          {
+            "id": "af495599-79b4-4cfb-9ab9-bd0889c1d448",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V007",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "78a756d2-2eb0-4a08-a6c4-6ebebd43fcc2",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Arjun Mehta",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "91320402-b06d-4b99-8aa6-f741b36c0ae6",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501007",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9107121f-266b-4615-9abf-2831e4208c26",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Jaipur",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1c070abe-47f6-48a9-b58e-ca58dd2684f5",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Rajasthan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "45acec4e-4239-482d-9920-d85de4f11d26",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Dropped",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7942f3ac-6dcf-4906-925b-aa0460214d13",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4e884db2-8440-4a06-b0fa-a40a61f2ff0a",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:40.904Z",
+        "cells": [
+          {
+            "id": "8c4cbcc4-fc50-4bec-8f68-e7048e87403e",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V008",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ed02e87-101c-4211-a4c7-bbc93b25c7ee",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Kavita Rao",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff36700b-4f89-487c-8993-a84cce65a514",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501008",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cc9b5ce5-6d1e-491f-b030-068f01947f89",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Hyderabad",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3358b581-952c-4e4a-8e18-99b42eab2809",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Telangana",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba8032ca-f809-4019-b21c-402595bbe2b7",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Pending",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0ad2a60-bbc2-4211-9687-0c7ffaf19f88",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "31ae05f2-0eb0-4492-82ab-255538785c4e",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:42.052Z",
+        "cells": [
+          {
+            "id": "3daf2e5b-9963-4584-9094-3fcd9f3b786c",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V009",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a4ff16e-af50-4bcf-aa70-5a6cc5bf2fdd",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Rohan Gupta",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5de7080e-bcef-48a4-93ba-7af1f41b0ba4",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501009",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea975d8f-949a-4bed-bcde-dd3fc9faecc7",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Chandigarh",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65c1fb7b-2ae8-495a-95f6-c2d954ded3a1",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Chandigarh",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "787a895e-ea14-4f62-aa35-97f0d54fe567",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Converted",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e5e8ff8-3e19-49c1-8d5e-a973f985a9ce",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7aaeba3a-c897-4a75-a18f-0fd828494763",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2026-06-27T19:19:05.590Z",
+        "lastEditedDateTime": "2026-06-27T19:21:45.228Z",
+        "cells": [
+          {
+            "id": "0125109e-d705-4f23-8e6b-4259dfcec6ad",
+            "columnId": "e9a9f0c1-d57b-4db3-9fe0-3adef04bee50",
+            "content": "V010",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c4916ab9-d6cd-4cb1-be1c-3e031731f512",
+            "columnId": "e5c4759e-d8c3-4e7a-b313-8b4ebd4e3e06",
+            "content": "Sunita Iyer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4d1315a7-242a-4b23-812f-deee329f64c1",
+            "columnId": "f8a488bc-ed97-4d00-ae30-126482d6fa85",
+            "content": "+91 9876501010",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05526494-b3f8-44fd-a5eb-f8e2109c5c14",
+            "columnId": "41ea55f5-82b2-4e8c-b19b-591da8d37139",
+            "content": "Chennai",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22e18355-c1cc-4ffa-9937-35e73f3571e9",
+            "columnId": "ca1a65ff-4e6c-4053-90a6-f036505c0882",
+            "content": "Tamil Nadu",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a3f4f715-bfd2-427b-bf17-3343f3764f79",
+            "columnId": "a6a302f6-b735-433e-8f77-7fc70f0fb090",
+            "content": "Pending",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6d26757b-1b3b-4129-8f2a-795caae15611",
+            "columnId": "91fb0feb-722b-407d-9f34-d5624629f83d",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.9"
+}

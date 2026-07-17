@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e2684ec4bc7ff243",
+    "type": "split",
+    "children": [
+      {
+        "id": "4075c2e0a6a33d00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3bf14babe49d9ae",
+            "type": "leaf",
+            "state": {
+              "type": "fountain",
+              "state": {
+                "file": "Scammed/Scammed_Draft1_20260627.fountain",
+                "fountain": {
+                  "editing": true,
+                  "mode": "script"
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scammed_Draft1_20260627"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeadd4a03435fc1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4d72f9b3bf3186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598676709f8666ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7faa3831b8099120",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ea4df753092b946",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58d38836d21ad83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c7ac21d8407484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9b04ddbbc7fd50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scammed/Scammed_Draft1_20260627.fountain",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Scammed_Draft1_20260627"
+            }
+          },
+          {
+            "id": "5c423f4fa3418fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scammed/Scammed_Draft1_20260627.fountain",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scammed_Draft1_20260627"
+            }
+          },
+          {
+            "id": "a70e256f00aa3cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e3b426304b4f438",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e1d189d46e25200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scammed/Scammed_Draft1_20260627.fountain",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scammed_Draft1_20260627"
+            }
+          },
+          {
+            "id": "5062fb6e788d8a3d",
+            "type": "leaf",
+            "state": {
+              "type": "fountain-sidebar",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Fountain Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "fountain:New fountain document": false
+    }
+  },
+  "active": "d3bf14babe49d9ae",
+  "lastOpenFiles": [
+    "Scammed/Scammed_Draft1_20260627.fountain",
+    "Scammed/Scammed_Draft1_20260627.fountain",
+    "Welcome.md",
+    "Scammed"
+  ]
+}

@@ -1,0 +1,6 @@
+# Obsidian runtime state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Optional caches
+.obsidian/cache/

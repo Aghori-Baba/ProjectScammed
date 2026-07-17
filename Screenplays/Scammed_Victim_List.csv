@@ -1,0 +1,11 @@
+VictimID,FullName,PhoneNumber,City,State,Scenario,Status
+V001,Rajesh Sharma,+91 9876501001,Pune,Maharashtra,Bank KYC Update,Pending
+V002,Anita Verma,+91 9876501002,Delhi,Delhi,Parcel Scam,Pending
+V003,Suresh Patel,+91 9876501003,Ahmedabad,Gujarat,Income Tax Notice,Escalated
+V004,Priya Nair,+91 9876501004,Kochi,Kerala,Police Verification,Pending
+V005,Mohan Das,+91 9876501005,Kolkata,West Bengal,SIM Deactivation,Converted
+V006,Neha Singh,+91 9876501006,Lucknow,Uttar Pradesh,Digital Arrest,Pending
+V007,Arjun Mehta,+91 9876501007,Jaipur,Rajasthan,Courier Intercept,Dropped
+V008,Kavita Rao,+91 9876501008,Hyderabad,Telangana,Bank Account Freeze,Pending
+V009,Rohan Gupta,+91 9876501009,Chandigarh,Chandigarh,Credit Card Fraud,Converted
+V010,Sunita Iyer,+91 9876501010,Chennai,Tamil Nadu,Identity Theft,Pending
