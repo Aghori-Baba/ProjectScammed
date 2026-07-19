@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4075c2e0a6a33d00",
+        "id": "76b3bb74c5136eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "d3bf14babe49d9ae",
+            "id": "aec31c13cee1824d",
             "type": "leaf",
             "state": {
-              "type": "fountain",
+              "type": "pdf",
               "state": {
-                "file": "Scammed/Scammed_Draft1_20260627.fountain",
-                "fountain": {
-                  "editing": true,
-                  "mode": "script"
-                }
+                "file": "Scammed/Scammed_Draft1_202607200335.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Scammed_Draft1_20260627"
+              "icon": "lucide-file-text",
+              "title": "Scammed_Draft1_202607200335"
             }
           }
         ]
@@ -168,7 +164,7 @@
             }
           },
           {
-            "id": "5062fb6e788d8a3d",
+            "id": "a1354967f5a8ac6d",
             "type": "leaf",
             "state": {
               "type": "fountain-sidebar",
@@ -197,8 +193,11 @@
       "fountain:New fountain document": false
     }
   },
-  "active": "d3bf14babe49d9ae",
+  "active": "aec31c13cee1824d",
   "lastOpenFiles": [
+    "Scammed/Scammed_Draft1.fountain",
+    "Scammed/Scammed_Draft1_202607200335.pdf",
+    "Scammed/Scammed_Draft1_20260630.pdf",
     "Scammed/Scammed_Draft1_20260627.fountain",
     "Scammed/Scammed_Draft1_20260627.fountain",
     "Welcome.md",
