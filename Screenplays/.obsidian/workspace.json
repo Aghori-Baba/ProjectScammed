@@ -31,8 +31,8 @@
               "state": {
                 "file": "ScreenplayVault/Scammed/Attachments/LeadList.loom"
               },
-              "icon": "lucide-file",
-              "title": "LeadList"
+              "icon": "lucide-ghost",
+              "title": "dataloom"
             }
           }
         ]
@@ -182,12 +182,22 @@
             "state": {
               "type": "fountain-sidebar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "fountain-sidebar"
+            }
+          },
+          {
+            "id": "efc9d028b52710e9",
+            "type": "leaf",
+            "state": {
+              "type": "fountain-sidebar",
+              "state": {},
               "icon": "list-tree",
               "title": "Fountain Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -207,7 +217,7 @@
       "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "1df9bdd99b01ab90",
+  "active": "efc9d028b52710e9",
   "lastOpenFiles": [
     "ScreenplayVault/Scammed/Scammed_Draft1_202607021249.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1.fountain",
