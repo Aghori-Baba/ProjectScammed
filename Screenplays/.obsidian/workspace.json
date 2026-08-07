@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd55c9c10027e94b",
+        "id": "9f5477e620bcd9ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1df9bdd99b01ab90",
+            "id": "030b51bef87264c4",
             "type": "leaf",
             "state": {
               "type": "fountain",
@@ -21,18 +21,6 @@
               },
               "icon": "lucide-file",
               "title": "Scammed_Draft1"
-            }
-          },
-          {
-            "id": "3456d21de1dcbb47",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "ScreenplayVault/Scammed/Attachments/LeadList.loom"
-              },
-              "icon": "lucide-ghost",
-              "title": "dataloom"
             }
           }
         ]
@@ -55,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,17 +167,7 @@
             }
           },
           {
-            "id": "bd66b9901b74272f",
-            "type": "leaf",
-            "state": {
-              "type": "fountain-sidebar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "fountain-sidebar"
-            }
-          },
-          {
-            "id": "efc9d028b52710e9",
+            "id": "29cf358b7feb81bb",
             "type": "leaf",
             "state": {
               "type": "fountain-sidebar",
@@ -197,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,16 +197,16 @@
       "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "efc9d028b52710e9",
+  "active": "030b51bef87264c4",
   "lastOpenFiles": [
-    "ScreenplayVault/Scammed/Scammed_Draft1_202607021249.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1.fountain",
+    "ScreenplayVault/Scammed/Attachments/LeadList.loom",
+    "ScreenplayVault/Scammed/Scammed_Draft1_202607021249.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1_20260701.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1_202606301142.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1_20260630.pdf",
     "ScreenplayVault/Scammed/Scammed_Draft1_202606301142.pdf",
     "ScreenplayVault/Scammed/Untitled.fountain",
-    "ScreenplayVault/Scammed/Attachments/LeadList.loom",
     "ScreenplayVault/Scammed/Attachments/Untitled.md",
     "Untitled 2.loom",
     "Untitled 1.loom",
