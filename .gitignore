@@ -4,3 +4,5 @@
 
 # Optional caches
 .obsidian/cache/
+
+**/*.json
